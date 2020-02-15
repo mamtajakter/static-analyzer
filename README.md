@@ -1,4 +1,4 @@
-# static-analyzer
+# Lexer & Parser
 
 
 A special thanks to Dewi Yokelson for the lexer and parser. 
