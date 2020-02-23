@@ -29,7 +29,6 @@
 
 /* Quack scanner
  *
- * Dewi Yokelson
  *
  */
 
