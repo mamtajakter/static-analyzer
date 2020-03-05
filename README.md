@@ -3,9 +3,11 @@
 
 # Customized Static Analyzer
 
-## About: This project parses quack code. It is basically a C++ version of my Haskell's quack parser. The quack program files are in samples analyzer/samples directory
+## About: 
+#### This project parses quack code. It is basically a C++ version of my Haskell's quack parser. The quack program files are in samples analyzer/samples directory
 
-## What it does so far: Every statement block expects BOO at the end of all statements. If there is no BOO found, the parser gives error with corresponding line number. 
+## What it does so far: 
+#### Every statement block expects BOO at the end of all statements. If there is no BOO found, the parser gives error with corresponding line number. 
 
 ## How To Run:
 #### cd analyzer/src
