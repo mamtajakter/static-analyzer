@@ -23,7 +23,7 @@ void bail()
  */
 void error_at(const yy::location& loc, const std::string& msg)
 {
-    std::cerr << msg << " at " << loc << std::endl;
+    std::cerr << msg << " at line number " << loc << std::endl;
     if (++error_count > error_limit) {
         bail();
     }
