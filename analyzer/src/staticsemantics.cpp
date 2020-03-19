@@ -1,6 +1,4 @@
-//
-// Created by Dewi Yokelson on 11/11/19.
-//
+
 
 #include <iostream>
 #include <map>
