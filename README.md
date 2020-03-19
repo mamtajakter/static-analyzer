@@ -32,7 +32,6 @@
 #### bison -d quack.yxx 
 ##### ------(bison generates calc.tab.hxx, calc.tab.cxx, location.hh, position.hh, stack.hh)
 #### g++ -std=c++11 lex.yy.cpp quack.tab.cxx parser.cxx ASTNode.cxx Messages.cxx  -lreflex 
-##### ------(This compiles and generates the executable)
 #### ./a.out "../samples/GoodWalk.qk"
 
 ## Acknowlegements: 
