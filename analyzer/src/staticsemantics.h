@@ -1,6 +1,4 @@
-//
-// Created by dewimaharani on 11/11/19.
-//
+
 
 #ifndef PROJ2_STATICSEMANTICS_H
 #define PROJ2_STATICSEMANTICS_H
