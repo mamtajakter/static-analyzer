@@ -67,7 +67,7 @@ int main(int argc, char **argv) {
         if (debug) driver.debug();
         AST::ASTNode *root = driver.parse();
         if (root != nullptr) {
-            std::cout << "Parsed!\n";
+            std::cout << "Successfully Parsed!\n";
             if (json) {
                 AST::AST_print_context context;
                 root->json(std::cout, context);
