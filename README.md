@@ -33,5 +33,5 @@
 #### ./a.out "../samples/GoodWalk.qk"
 
 ## Acknowlegements: 
-#### Thanks to Dr. Michal Young and Dewi Yokelson for the starter project with a grammar for some arithmatic expressions
+#### Thanks to Dr. Michal Young for the starter project with a grammar for some arithmatic expressions
 #### Thanks to Zayd Hammoudeh for figuring out how to install bison and reflex on mac which was quite exhausting. 
